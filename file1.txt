@@ -2,3 +2,4 @@ line 1
 line 2+1
 Line 3(changed)
 Line 4
+line 7
