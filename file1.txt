@@ -9,3 +9,5 @@ asdbksdn
 >>>>>>> Stashed changes
 Line n
 line n+1
+Line 12
+Line 13
