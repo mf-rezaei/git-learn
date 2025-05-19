@@ -7,3 +7,5 @@ line 7
 =======
 asdbksdn
 >>>>>>> Stashed changes
+Line n
+line n+1
